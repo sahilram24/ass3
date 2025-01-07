@@ -1,0 +1,21 @@
+Operators:
+ - operators are special symbols which used to perform operation on operands. 
+ ex:- 2(Operand1) +  2(operand2)
+
+1. Unary  operator
+2. Binary
+3. Ternary (operanation ? statement1 : statement2);
+
+
+1.1 Arithmatic :- Which performs oeprations such as 
+    - Additon (concatenation)
+    - Subtraction
+    - multiplication
+    - Division
+    - modulus
+    - exponential
+    - 
+    
+1.2 Assignment
+1.3 Relational 
+1.4 Logical
